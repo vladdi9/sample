@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(247, 138, 104);
+}
+img{
+width: 50%;
+margin: 16px;
+}
+.wrapper{
+    display: inline-block;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+ul{
+    padding-top: 16px;
+}
+.container{
+    margin-top: 16px;
+    margin-left: 16px;
+}
